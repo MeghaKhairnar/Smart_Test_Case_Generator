@@ -1,4 +1,4 @@
-# SmartTestGen
+# Smart_Test_Case_Generator
 
 An intelligent Java application that automatically generates JUnit test cases from Markdown requirement files using AI. It supports OpenAI/Claude models and integrates with JIRA and XRay for automated test management.
 
