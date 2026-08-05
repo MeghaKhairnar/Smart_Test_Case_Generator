@@ -1,0 +1,132 @@
+================================================================================
+                        SMARTTESTGEN - PROJECT SUMMARY
+================================================================================
+
+PROJECT NAME: SmartTestGen (AI Test Case Generator)
+LOCATION: /Users/sureshkc/Desktop/demo/SmartTestGen
+BUILD TOOL: Gradle 8.6
+LANGUAGE: Java 15+
+FRAMEWORK: JUnit 4
+STATUS: Production Ready ✅
+
+================================================================================
+                            QUICK START GUIDE
+================================================================================
+
+1. BUILD PROJECT:
+   cd /Users/sureshkc/Desktop/demo/SmartTestGen
+   gradle clean build
+
+2. GENERATE TEST CASES:
+   gradle run --args="examples/saucedemo-requirements.md generated-tests-saucedemo"
+
+3. VIEW GENERATED TESTS:
+   cat generated-tests-saucedemo/GeneratedTestSuite.java
+
+4. RUN AS JAR:
+   java -jar build/libs/smar==============================================================================                        SMARTTESTGEN - PROJECT SUMMARY
+========================  =======================================================
+PROJECT NAME: SmartTestGen (AI Test Case Generator)
+LOCATION: /Users/sureshkc/   LOCATION: /Users/sureshkc/Desktop/demo/SmartTestGe(PBUILD TOOL: Gradle 8.6
+LANGUAGE: Java 15+
+FRAMEWOR  LANGUAGE: Java 15+
+FRryFRAMEWORK: JUnitmplSTATUS: Productioes
+==========================Req                            QUICK START GUIDE
+=================================en============================================al
+1. BUILD PROJECT:
+   cd /Users/sureshkc/Desktop/demo/SmartTestGen
+   gradle clFil   cd /Users/sur f   gradle clean build
+
+2. GENERATE TEST CASES:IC
+2. GENERATE TEST CAtar   gradl GRADLE_SETUP.md
+3. VIEW GENERATED TESTS:
+   cat generated-tests-saucedemo/GeneratedTestSuite.java (D   cat generated-tests-at
+4. RUN AS JAR:
+   java -jar build/libs/smar===========ing   jadle
+  - gr========================  =======================================================
+PROJECT NAME: SmartTestGen (AI Test Case Generator)
+LOCATION: /Users/sureshkcHOPROJECT NAME: SmartTestGen (AI Test Case Generato=================================LOCATION: /Users/sureshkc/   LOCATION: /Users/sureCoLANGUAGE: Java 15+
+FRAMEWOR  LANGUAGE: Java 15+
+FRryFRAMEWORK: JUnitmplSTATUS: Productioes
+===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe ==========================Req            %
+=================================en========================================1. BUILD PROJECT:
+   cd /Users/sureshkc/Desktop/demo/SmartTestGen
+   gradle clFi==   cd /Users/sur==   gradle clFil   cd /Users/sur f   gradle cle==
+2. GENERATE TEST CASES:IC
+2. GENERATE TEST CAtar   grie2. GENERATE TEST CAtar   -3. VIEW GENERATED TESTS:
+   cat generated-tes-    cat generated-tests-nd4. RUN AS JAR:
+   java -jar build/libs/smar===========ing   jadle
+  - gr===========ne   java -jar e   - gr========================  =================s PROJECT NAME: SmartTestGen (AI Test Case Generator)
+LOCATION: /Users/sureshkcHOPROJECTntLOCATION: /Users/sureshkcHOPROJECT NAME: SmartTestodFRAMEWOR  LANGUAGE: Java 15+
+FRryFRAMEWORK: JUnitmplSTATUS: Productioes
+===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe ==========================Req            %
+==atFRryFRAMEWORK: JUnitmplSTAigu===========ioFRAMEWOR  LANGUAde
+FRryFRAMEt
+FRryFRAMEWORK: JUnitmplSTATe ====================================en===================================     cd /Users/sureshkc/Desktop/demo/SmartTestGen
+   gradle clFi==   cd /Users/sur==   gradle==   gradle clFi==   cd /Users/sur==   gradle clte2. GENERATE TEST CASES:IC
+2. GENERATE TEST CAtar   grie2. GENERATE TEST CAtar   - s2. GENERATE TEST CAtar  LE   cat generated-tes-    cat generated-tests-nd4. RUN AS JAR:
+   java -jar buiES   java -jar build/libs/smar===========ing   jadle
+  - gr===de  - gr===========ne   java -jar e   - gr=========moLOCATION: /Users/sureshkcHOPROJECTntLOCATION: /Users/sureshkcHOPROJECT NAME: SmartTestodFRAMEWOR  LANGUAGE: Java 15+
+FRryFRAMEWORK: JUn==FRryFRAMEWORK: JUnitmplSTATUS: Productioes
+===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe ========================ioFRAMEWOR  LANGUAde
+FRryFRAME
+EFRryFRAMEWORK: JUnitmplSTATe =
+ ==atFRryFRAMEWORK: JUnitmplSTAigu===========ioFRAMEWOR  LANGUAde
+FRryFesFRryFRAMEt
+FRryFRAMEWORK: JUnitmplSTATe ======================= 2FRryFRAMEbs   gradle clFi==   cd /Users/sur==   gradle==   gradle clFi==   cd /Users/sur==   gradle clte2. GENERATE TEST CASES:IC
+2. GENERATE TEST CAtar   grie2.s 2. GENERATE TEST CAtar   grie2. GENERATE TEST CAtar   - s2. GENERATE TEST CAtar  LE   cat generated-tes-    cat generst   java -jar buiES   java -jar build/libs/smar===========ing   jadle
+  - gr===de  - gr===========ne   java -jar e   - gr=========moLOCATION: /U==  - gr===de  - gr===========ne   java -jar e   - gr=========moLOCAT==FRryFRAMEWORK: JUn==FRryFRAMEWORK: JUnitmplSTATUS: Productioes
+===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe ========================ioFRAMEWOR  LANGUAde
+FRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMEWORK: JUnitmplSTATe =blFRryFRAME
+EFRryFRAMEWORK: JUnitmplSTATe =
+ ==atFRryFRAMEWORK: JUnitmplSTtlEFRryFRAet ==atFRryFRAMEWORK: JUnitmplSTamFRryFesFRryFRAMEt
+FRryFRAMEWORK: JUnitmplSTATe =================  FRryFRAMEWORK: Jst2. GENERATE TEST CAtar   grie2.s 2. GENERATE TEST CAtar   grie2. GENERATE TEST CAtar   - s2. GENERATE TEST CAtar  LE   cat generated-tes-    cat generst   java -jar buiES   java -jar    - gr===de  - gr===========ne   java -jar e   - gr=========moLOCATION: /U==  - gr===de  - gr===========ne   java -jar e   - gr=========moLOCAT==FRryFRAMEWORK: JUn==FRryFRAMEWORK: JUnitmplSTATUS: Productioes
+===========..===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe ========================ioFRAMEWOR  LANGUAde
+FRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMEWORK: JUnitmplSTAT  FRryFRAMEWORK: JUnitmplSle wrappFRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe 4==FRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME  EFRryFRAMEWORK: JUnitmplSTATe =
+ ==atFRryFRAMEWORK: JUnitmplSTtlEFRryFR== ==atFRryFRAMEWORK: JUnitmplST==FRryFRAMEWORK: JUnitmplSTATe =================  FRryFRAMEWORK: Jst2. GENERATE TEST CAtar  ur===========..===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe ========================ioFRAMEWOR  LANGUAde
+FRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMEWORK: JUnitmplSTAT  FRryFRAMEWORK: JUnitmplSle wrappFRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe 4==FRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME  EFRryFRAMEWORK: JUnitmplSTATe =
+ ==atFRryFRAMEWORK: JUnitmplSTtlEFRryFR== ==atFRryFRAMEt FRryFRAMEWORK: JUnitmplSTATe ==============??FRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe 4acFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMEJIFRryFRAMEWORK: JUnitmplSTATe 4==FRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME  EFRryFRAMEWORK: JUnitmplSTATe =
+ ==atFRryFRAMEWORK: JUnitm== ==atFRryFRAMEWORK: JUnitmplSTtlEFRryFR== ==atFRryFRAMEWORK: JUnitmplST==FRryFRAMEWORK: JUnitmplSTATe ====FRryFRAMEWORK: JUnitmplSTATe ========================ioFRAMEWOR  LANGUAde
+FRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMEWORK: JUnitmplSTAT  FRryFRAMEWORK: JUnitmplSle wrapperFRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe 4paFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME -FRryFRAMEWORK: JUnitmplSTATe 4==FRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME  EFRryFRAMEWORK: JUnitmplSTATe =
+ ==atFRryFRAMEWORK: JUnitm/G ==atFRryFRAMEWORK: JUnitmplSTtlEFRryFR== ==atFRryFRAMEt FRryFRAMEWORK: JUnitmplSTATe ==============??FRADFRryFRAMEWORK: JUnitmplSTATe 4acFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMEJIFRryFRAMEWORK: JUnitmplSTATe 4==FRryFRAMEWORK: JUnitmplSTATe 4 FRryF== ==atFRryFRAMEWORK: JUnitm== ==atFRryFRAMEWORK: JUnitmplSTtlEFRryFR== ==atFRryFRAMEWORK: JUnitmplST==FRryFRAMEWORK: JUnitmplSTATe ====FRryFRAMEWORK: JUnitmplSTATe ================
+FRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMEWORK: JUnitmplSTAT  FRryFRAMEWORK: JUnitmplSle wrapperFRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMElaFRryFRAMEWORK: JUnitmplSTATe 4paFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME -FRryFRAMEWORK: JUnitmplSTATe 4==FRryFRAMEWORK: JUnitmplSTATe   ==atFRryFRAMEWORK: JUnitm/G ==atFRryFRAMEWORK: JUnitmplSTtlEFRryFR== ==atFRryFRAMEt FRryFRAMEWORK: JUnitmplSTATe ==============??FRADFRryFRAMEWORK: JUnitmplSTATe 4acFRryFRAMEWOR==FRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMEWORK: JUnitmplSTAT  FRryFRAMEWORK: JUnitmplSle wrapperFRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMElaFRryFRAMEWORK: JUnitmplSTATe 4paFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME -FRryFRAMEWORK: JUnitmplSTATe 4==FRryFRAMEWORK: JUnitmplSTATe   ==atFRryFRAMEWORK: JUnitm/G ==atFRryFRAMEWORK: JUnitmplSTtlEFRryFR== psFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME:
+FRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMElaFRryFRAMEWORK: JUnitmplSTATe 4paFRryFRAMEWORK: JUnitmplSTATe 4coFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMEWORK: JUnitmplSTAT  FRryFRAMEWORK: JUnitmplSle wrapperFRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMElaFRryFRAMEWORK: JUnitmplSTATe 4paFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME -FRryFRAMEWORK: JUnitmplSTATe 4==FRryFRAMEWORK: JUnitmplSTATe   ==atFRryFRAMEWORK: JUnitm/G ==atFRryFRAMEWORK: JUnitmplSTtlEFRryFR== psFRryFRAMEWORenFRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMElaFRryFRAMEWORK: JUnitmplSTATe 4paFRryFRAMEWORK: JUnitmplSTATe 4 gFRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMElaFRryFRAMEWORK: JUnitmplSTATe 4paFRryFRAMEWORK: JUnitmplSTATe 4coFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMEWORK: JUnitmplSTAT  FRryFRAMEWORK: JUnitmplSle wrapperFRryFRAM  ===========ioFRAMEWOR  LANGUAde
+FRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUn  FRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMElaFRryFRAMEWORK: JUnitmplSTATe 4paFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME -FRryFRAMEWORK: JUnitmplSTATe 4==FRryFRAMEWORK: JUnitmplSTATe   ==atFRryFRAMEWORK: JUnitm/G ==atFRryFRAMEWORK: JUnitmplSTtlEF  FRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUn  FRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMElaFRryFRAMEWORK: JUnitmplSTATe 4paFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME -FRryFRAMEWORK: JUnitmplSTATe 4==FRryFRAMEWORK: JUnitmplSTATe   ==atFRryFRAMEWORK: JUnitm/G ==atFRryFRAMEWORK: JUnitmplSTtlEF  FRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUn  FRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAMElaFRryFRAMEWORK: JUnitmplSTATe 4paFRryFRAMEWORK: JUnitmplSTATe 4 FRryFRAME -FRryFRAMEWORK: JUnitmplSTATe 4==FRryFRAMEWORK: JUnitmplSTATe   ==atFRryFRAMEWORK: JUnitm/G ==atFRryFRAMEWORK: JUnitmplSTtlEF  FRryFRAMEWORK: JUnitmplSTATensFRryFRAMEWORK: JUn  FRryFR===================================================
+                        CONTACT & SUPPORT
+================================================================================
+
+Project Status:     Open for enhancement
+Feedback:          Ready to receive suggestions
+Integration:       Open to team/company integration
+Training:          Available for QA team onboarding
+
+================================================================================
+
+END OF SUMMARY
+
+For detailed information, see README.md
+For quick start, see QUICKSTART.md
+For Swag Labs details, see SAUCEDEMO_REFERENCE.md
+
+Project is ready for demo and production deployment! ✅
+
+================================================================================

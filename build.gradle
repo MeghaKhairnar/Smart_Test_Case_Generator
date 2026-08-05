@@ -1,0 +1,127 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.qa.automation'
+version = '1.0.0'
+description = 'AI Test Case Generator - Generates JUnit tests from requirements using OpenAI/Claude with JIRA and XRay integration'
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_15
+    targetCompatibility = JavaVersion.VERSION_15
+}
+
+repositories {
+    mavenCentral()
+    google()
+    maven { url 'https://atlassian.artifactoryonline.com/atlassian/repo' }
+}
+
+dependencies {
+    // JUnit Testing Framework
+    testImplementation 'junit:junit:4.13.2'
+    
+    // HTTP Client for API calls
+    implementation 'com.squareup.okhttp3:okhttp:4.11.0'
+    
+    // JSON Processing
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.2'
+    
+    // Markdown Parser
+    implementation 'org.commonmark:commonmark:0.21.0'
+    
+    // Logging
+    implementation 'org.slf4j:slf4j-api:2.0.7'
+    implementation 'ch.qos.logback:logback-classic:1.4.11'
+    
+    // File Utilities
+    implementation 'commons-io:commons-io:2.11.0'
+}
+
+application {
+    mainClass = 'com.qa.automation.TestCaseGeneratorApp'
+}
+
+tasks.named('test') {
+    useJUnit()
+    
+    testLogging {
+        events 'passed', 'skipped', 'failed'
+        exceptionFormat 'full'
+        showStandardStreams = false
+    }
+}
+
+jar {
+    manifest {
+        attributes(
+            'Main-Class': 'com.qa.automation.TestCaseGeneratorApp',
+            'Implementation-Version': version,
+            'Implementation-Title': name
+        )
+    }
+    
+    archiveFileName = "smarttestgen-${version}.jar"
+}
+
+// Build info
+tasks.register('buildInfo') {
+    group = 'help'
+    description = 'Display build information'
+    
+    doLast {
+        println """
+        ========================================
+        AI Test Case Generator - Build Info
+        ========================================
+        Project: ${project.name}
+        Version: ${version}
+        Source Compatibility: ${java.sourceCompatibility}
+        Target Compatibility: ${java.targetCompatibility}
+        Main Class: ${application.mainClass}
+        ========================================
+        """
+    }
+}
+
+// Help task
+tasks.register('helpRun') {
+    group = 'help'
+    description = 'Display run instructions'
+    
+    doLast {
+        println """
+        ========================================
+        How to Run AI Test Case Generator
+        ========================================
+        
+        Basic run with defaults:
+        gradle run
+        
+        Run with arguments:
+        gradle run --args="examples/requirements.md generated-tests"
+        
+        Run with custom output:
+        gradle run --args="path/to/requirements.md output-dir"
+        
+        Build JAR:
+        gradle build
+        
+        Run JAR:
+        java -jar build/libs/test-case-generator-${version}.jar \\
+          examples/requirements.md generated-tests
+        
+        Clean build:
+        gradle clean build
+        
+        Show dependencies:
+        gradle dependencies
+        
+        ========================================
+        """.stripIndent()
+    }
+}
+
+// Default task
+defaultTasks 'helpRun'

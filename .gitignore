@@ -1,0 +1,67 @@
+# .gitignore for Test Case Generator
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+.mvn/
+
+# Build
+out/
+build/
+dist/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment
+.env
+.env.local
+.env.*.local
+env.properties
+
+# Generated files
+generated-tests/
+temp/
+*.class
+*.jar
+*.war
+
+# API Keys and Secrets
+application.properties.local
+api-keys.txt
+credentials.json
+
+# Node (if using)
+node_modules/
+npm-debug.log
+
+# OS
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+.~*
